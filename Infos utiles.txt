@@ -1,0 +1,3 @@
+cd C:\Users\djey7\OneDrive\Documents\TMW_Project\Trustmyweb
+
+npx react-native run-android
